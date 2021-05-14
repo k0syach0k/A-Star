@@ -1,35 +1,3 @@
 <resources>
-    <string name="app_name">Content Provider</string>
-
-    //PermissionMessage
-    <string name="contactPermissionDeniedToast">Приложение не может работать без доступа к списку контактов</string>
-    <string name="contactPermissionNeverAskAgain">Предоставьте разрешения на доступ к списку контактов в настройках телефона</string>
-
-    //ListFragment
-    <string name="fabAddContactDescription">Add contact</string>
-
-    //AddFragment
-    <string name="inputPrefixNameHint">введите префикс</string>
-    <string name="inputNameHint">введите имя</string>
-    <string name="inputMiddleNameHint">введите отчество</string>
-    <string name="inputLastNameHint">введите фамилию</string>
-    <string name="inputSuffixNameHint">введите суффикс</string>
-    <string name="inputPhoneNumberHint">введите номер телефона</string>
-    <string name="inputEmailHint">введите email</string>
-    <string name="saveButtonText">сохранить</string>
-    <string name="deleteContactFabDescription">delete contact</string>
-    <string name="incorrectPhoneNumber">Введите корректный номер телефона</string>
-    <string name="incorrectName">Введите имя контакта</string>
-    <string name="incorrectLastName">Введите фамилию контакта</string>
-    <string name="errorSaveContact">Невозможно сохранить контакт</string>
-    <string name="contactSuccessfulAdded">Контакт успешно сохранён</string>
-    
-    //AlertDialog
-    <string name="alertDialogTitle">Подтвердите удаление</string>
-    <string name="alertDialogText">Удаление необратимо, подтверждаете удаление контакта?</string>
-    <string name="alertDialogOk">Подтверждаю</string>
-    <string name="alertDialogCancel">Отмена</string>
-
-    //DetailFragment
-    <string name="contactSuccessfulDeleted">Контакт успешно удалён</string>
+    <string name="app_name">Astar</string>
 </resources>
